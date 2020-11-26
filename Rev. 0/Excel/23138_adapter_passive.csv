@@ -1,0 +1,8 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"CLOSED";"CP_CL";"JP2";"Closed Cutpad";"";
+"2";"";"OPEN";"CP_OP";"JP3, JP4";"open Cutpad";"";
+"2";"10k";"R-0805";"0805";"R1, R2";"";"";
+"1";"23128SOCKET";"23128SOCKET";"DIL28_SOCKET";"IC2";"";"";
+"1";"COMBI-3X2P-90°";"COMBI-3X2P-90°";"COMBI-3X2W";"JP1";"";"";
+"1";"M27C512-DIP28";"M27C512-DIP28";"DIL28-6";"IC1";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$21";"";"";
