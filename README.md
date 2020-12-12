@@ -5,3 +5,4 @@ It allows up to 4 Kernals for the C16, which can be selected by jumpers.
 
 <img src="https://github.com/svenpetersen1965/23128-Adapter-passive/blob/main/Rev.%200/Pictures/6801_23128Ada_installation_c16.JPG" width="300" alt="23128 EPROM Adapter">
 
+BOM value (12.12.2020): 3.81€
